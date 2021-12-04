@@ -50,7 +50,9 @@
     
     <div> <i> <b> <br> Functions: </b></i></div>
     <div><br> 1. <br> <img src="f1.png">
-        
+    
+    <div> <i> <b> <br> Visualizations: </b></i></div>
+
     <div> <br>
         Mingmar Dolma   <br>  
         CSCI 39542   <br>   
