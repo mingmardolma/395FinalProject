@@ -51,7 +51,7 @@
     <div> <i> <b> <br> Functions: </b></i></div>
     <div><br> 1. <br> <img src="f1.png">
         
-    <div>
+    <div> <br>
         Mingmar Dolma   <br>  
         CSCI 39542   <br>   
         Fall 2021 
