@@ -1,0 +1,6 @@
+total_households = psql.sqldf(q_total_households)
+# total_households = psql.sqldf(q_total_households)
+# total_households = psql.sqldf(q_total_households)
+# total_households = psql.sqldf(q_total_households)
+# total_households = psql.sqldf(q_total_households)
+# total_households = psql.sqldf(q_total_households)
