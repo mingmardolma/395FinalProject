@@ -28,11 +28,11 @@
 
     <div> <i> <b> Libraries Used : </b></i></div>
 
-    <div><br>  <img src="images/libraries.png"> </div>
+    <div><br>  <img src="Z Business/images/libraries.png"> </div>
 
     <div> <i> <b> <br> Inputs: </b></i></div>
 
-    <div><br>  <img src="images/inputs.png">
+    <div><br>  <img src="Z Business/images/inputs.png">
     
     <div> <i> <b> <br> Links to Inputs: </b></i></div>
     <div> <br> 
@@ -41,15 +41,15 @@
         <a href="data.census.gov" target="_blank"> data.census.gov </a>
     </div>
     <div> <i> <b> <br> Before Data Clean up: </b></i></div>
-    <div><br>  <img src="images/BusinessData.png">
-    <div><br>  <img src="images/IncomeData.png">
+    <div><br>  <img src="Z Business/images/BusinessData.png">
+    <div><br>  <img src="Z Business/images/IncomeData.png">
 
     <div> <i> <b> <br> After Data Clean up: </b></i></div>
-    <div><br>  <img src="images/CleanBusinessData.png">
-    <div><br>  <img src="images/CleanIncomeData.png">
+    <div><br>  <img src="Z Business/images/CleanBusinessData.png">
+    <div><br>  <img src="Z Business/images/CleanIncomeData.png">
     
     <div> <i> <b> <br> Functions: </b></i></div>
-    <div><br> 1. <br> <img src="images/f1.png">
+    <div><br> 1. <br> <img src="Z Business/images/f1.png">
         
     <div>
         Mingmar Dolma   <br>  
